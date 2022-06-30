@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there, I´m joão 👋
+
+[![blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://joaoantudv.ueuo.com/)](http://joaoantudv.ueuo.com) 
+
 
 <!--
-**JohnAntu/JohnAntu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
