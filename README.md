@@ -1,6 +1,6 @@
 ### Hi there, I´m joão 👋
 
-[![Blog](https://img.shields.io/website? label=JoaoAntudv.ueuo.com&style=for-the-badge&url=http://joaoantudv.ueuo.com/)]
+[![Blog](https://img.shields.io/website?label=JoaoAntudv.ueuo.com&style=for-the-badge&url=http://joaoantudv.ueuo.com/)]
 
 <!--
 
