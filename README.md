@@ -1,6 +1,6 @@
 ### Hi there, I´m joão 👋
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://joaoantudv.ueuo.com/)](http://joaoantudv.ueuo.com) 
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://joaoantudv.ueuo.com/)]
 
 
 <!--
