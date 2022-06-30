@@ -1,7 +1,7 @@
 <h2 style="text-align: center"> Hi there, I´m joão 👋 </h2>
 
 
-[![Blog](https://img.shields.io/website?label=JoaoAntudv.ueuo.com&style=for-the-badge&url=http://joaoantudv.ueuo.com/)]
+[![Blog](https://img.shields.io/website?label=JoaoAntudv.ueuo.com&style=for-the-badge&url=http://joaoantudv.ueuo.com/)](http://joaoantudv.ueuo.com)
 
 <!--
 
