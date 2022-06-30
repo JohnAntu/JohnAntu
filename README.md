@@ -1,4 +1,4 @@
-### Hello there, I´m joão 👋
+### Hello there, I´m joão. 👋
 <br>
 
 
