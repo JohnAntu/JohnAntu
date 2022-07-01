@@ -3,7 +3,7 @@
 
 <section align="center">
 
-![João´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntu&show_icons=true&theme=radical)
+![João´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntu&show_icons=true&theme=black)
 
 <br>
 
