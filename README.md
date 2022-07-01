@@ -27,7 +27,8 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </div>
 <br>
-
+<br>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnAntu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
