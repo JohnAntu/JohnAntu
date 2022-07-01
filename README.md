@@ -1,6 +1,7 @@
 <h3 align="center"> Hello there, I´m joão. 👋</h3>
 <br>
 
+<section style="center">
 
 ![João´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntu&show_icons=true&theme=radical)
 
@@ -30,3 +31,5 @@
 
 ### Website: 
 [![Blog](https://img.shields.io/website?label=JoaoAntudv.ueuo.com&style=for-the-badge&url=http://joaoantudv.ueuo.com/)](http://joaoantudv.ueuo.com)
+
+</section>
