@@ -1,7 +1,7 @@
 <h3 align="center"> Hello there, I´m joão. 👋</h3>
 <br>
 
-<section style="center">
+<section align="center">
 
 ![João´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntu&show_icons=true&theme=radical)
 
