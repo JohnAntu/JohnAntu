@@ -3,8 +3,7 @@
 
 <section align="center">
 
-![João´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntu&show_icons=true&theme=dark&hide=stars,prs,issues,contribs)
-
+![João´s GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnAntu&show_icons=true&theme=dark&count_private=true)
 <br>
 
 
